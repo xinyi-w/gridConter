@@ -1,1 +1,1 @@
-# gridConter
+# gridCounter
