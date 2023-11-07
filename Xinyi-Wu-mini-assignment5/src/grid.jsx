@@ -1,4 +1,3 @@
-// Grid.js
 import React, { useState, createContext } from 'react';
 import Cell from '/Users/kk/Desktop/SchoolWork/2023_Fall_CSA/5610/miniAssignment/gridCounter/Xinyi-Wu-mini-assignment5/src/cell.jsx';
 
